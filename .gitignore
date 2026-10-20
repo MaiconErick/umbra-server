@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Runtime state - personal data, never commit
+data/
+logs/
+temp/
+sessions/
+builds/
+backups/
+store/
+memory/
+*.db
+*.sqlite3
+*.log
+
+# Secrets
+.env

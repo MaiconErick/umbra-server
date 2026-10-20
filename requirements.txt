@@ -1,0 +1,14 @@
+python-dotenv
+openai
+requests
+python-telegram-bot
+selenium
+fastapi
+uvicorn[standard]
+websockets
+tiktoken
+python-multipart
+APScheduler
+croniter
+Pillow
+pillow-heif
